@@ -1,7 +1,6 @@
 - 👋 Hi, I’m rishi
 - 👀 I’m interested in learning new skills 
 - 🌱 I’m currently learning c programming language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - insta - itz_harshuuuuuu_
 - whatsapp - 6205241534
